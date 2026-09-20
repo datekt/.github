@@ -16,7 +16,7 @@
   <a href="https://tiktok.com/@da.tekt">
     <img src="https://img.shields.io/badge/TikTok-FE2C55?style=flat&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
-  <a href="https://discord.gg">
+  <a href="https://discord.gg/datekt">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://datekt.su">
@@ -26,16 +26,16 @@
 
 ***
 
-## 🌐 Экосистема Datekt Media
+## 🌐 Datekt Media
 
-Добро пожаловать в официальный хаб независимой медиа-команды **Datekt**. Мы создаем цифровые продукты, шрифты и контент для вашей счастливой цифровой жизни.
+Добро пожаловать в официальный хаб независимой медиа-команды **Datekt**. Мы создаем то, что приносит удовольствие не только нам, но и пользователям цифровой жизни.
 
 ### 📦 Наши ресурсы и Brand Kit
 Внутри нашей организации вы можете найти все официальные исходные материалы и их правовой статус:
 
-* 🔤 **[Datekt-Fonts](https://github.com/datekt/.github)** — наши фирменные шрифты (`Datekt-Regular` и `Datekt-Black`) вместе с их лицензией на использование.
-* 🎨 **[Datekt-Logotype](https://github.com/datekt/.github)** — официальный графический логотип (зеленая буква G) в высоком разрешении и правила его размещения.
-* 📝 **[Datekt-Name](https://github.com/datekt/.github)** — репозиторий защиты нашего текстового наименования, закрепляющий за нами права на бренд **Datekt Media**.
+* 🔤 **[Datekt-Fonts](https://github.com/datekt/.github/tree/main/fonts)** — наши фирменные шрифты (`Datekt-Regular` и `Datekt-Black`).
+* 🎨 **[Datekt-Logotype](https://github.com/datekt/.github/tree/main/logotype)** — официальный графический логотип в высоком разрешении формата JPG и PNG.
+* 📝 **[Datekt-Name](https://github.com/datekt/.github/tree/main/name)** — репозиторий защиты нашего текстового наименования, закрепляющий за нами права на бренд **Datekt Media**.
 
 ---
 *© 2026 Datekt Media. Все права защищены. Разработано для людей.*
