@@ -1,21 +1,21 @@
-# 🎨 Фирменная палитра цветов / Brand Colors
+# 🎨 Brand Palette / Brand Colors
 
-Официальные цифровые цвета консорциума **Datekt Consortium**. Используйте эти параметры для соблюдения единого визуального стиля во всех наших продуктах, веб-сайтах и медиа-ресурсах.
+Official digital colors of the **Datekt Consortium**. Use these parameters to maintain a consistent visual style across all our products, websites, and media resources.
 
-## 🌟 Основные цвета (Brand Colors)
+## 🌟 Brand Colors
 
-| Название цвета | Визуализация | HEX | RGB | Назначение |
+| Color Name | Visualization | HEX | RGB | Purpose |
 | :--- | :---: | :--- | :--- | :--- |
-| **Datekt Black** | ⬛ | `#000000` | `0, 0, 0` | Основной фон интерфейсов, глубокие тени, подложки |
-| **Datekt White** | ⬜ | `#FFFFFF` | `255, 255, 255` | Основной цвет текста на темном фоне, чистые элементы |
+| **Datekt Black** | ⬛ | `#000000` | `0, 0, 0` | Main interface background, deep shadows, backdrops |
+| **Datekt White** | ⬜ | `#FFFFFF` | `255, 255, 255` | Primary text color on dark backgrounds, clean elements |
 
-## 🚀 Акцентный цвет (Accent Color)
+## 🚀 Accent Color
 
-| Название цвета | Визуализация | HEX | RGB | Назначение |
+| Color Name | Visualization | HEX | RGB | Purpose |
 | :--- | :---: | :--- | :--- | :--- |
-| **Datekt Lime (Желто-зеленый)** | 🟢 | `#67D934` | `103, 217, 52` | Главный акцент, кнопки, активные элементы, иконки |
+| **Datekt Lime (Yellow-Green)** | 🟢 | `#67D934` | `103, 217, 52` | Main accent, buttons, active elements, icons |
 
 ---
-## 📦 Ресурсы для разработки и дизайна
-* **Для веба:** Готовые дизайн-токены находятся в папке `tokens/`.
-* **Для графики:** Палитры для графических редакторов доступны в папке `palettes/`.
+## 📦 Resources for Development and Design
+* **For Web:** Production-ready design tokens are available in the `tokens/` folder.
+* **For Graphics:** Color palettes for graphic editors are available in the `palettes/` folder.
