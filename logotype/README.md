@@ -1,61 +1,40 @@
-# Datekt Consortium • Фирменные ресурсы
+# Datekt Consortium • Brand Assets
 
-Добро пожаловать в официальный репозиторий фирменных ресурсов и
-медиа-материалов **Datekt Consortium**. В данном репозитории содержатся наши
-официальные логотипы, визуальные элементы и правовые руководящие
-принципы их использования.
+Welcome to the official repository for brand assets and media materials of the **Datekt Consortium**. This repository contains our official logotypes, visual elements, and legal guidelines for their usage.
 
-## 📦 Структура репозитория
+## 📦 Directory Structure
 
-* `datekt_logotype/datekt-avatarlogo, datekt_logotype/datekt-logo` — Официальные файлы логотипов в высоком разрешении (JPG, PNG).
-* `LICENSE` — Юридическая лицензия, определяющая разрешённые и запрещённые
-  способы использования нашего логотипа.
-* `COPYRIGHT` — Декларация об интеллектуальной собственности и
-  авторском праве.
+* `datekt_logotype/datekt-avatarlogo, datekt_logotype/datekt-logo` — Official high-resolution logo files (JPG, PNG).
+* `LICENSE` — Legal license defining permitted and prohibited ways to use our logo.
 
 ---
 
-## ⚖️ Правовые руководящие принципы
+## ⚖️ Legal Guidelines
 
-Перед тем как скачивать или использовать любые материалы из данного
-репозитория, вы обязаны ознакомиться с и согласиться с нашими
-официальными политиками:
+Before downloading or using any materials from this repository, you are required to review and agree to our official policies:
 
-* 📜 **[Лицензия на использование логотипа](LICENSE)** — Объясняет, как вы
-  можете использовать наш логотип для новостей, обзоров и сообщество
-  фан-арта, а также строгие ограничения на коммерческое использование и
-  модификации.
-* 🛡️ **[Уведомление об авторском праве](COPYRIGHT)** — Официальное заявление
-  о защите авторского права и политика принудительного применения для
-  **© Datekt Datekt Consortium, 2026**.
+* 📜 **[Logo Usage License](LICENSE)** — Explains how you can use our logo for news, reviews, and community fan-art, as well as strict restrictions on commercial use and modifications.
+  
+---
+
+## 🚀 Quick Guidelines
+
+### 🟢 Permitted:
+* Using the logo in articles, news materials, and fair technical reviews.
+* Creating non-commercial fan-art or community content.
+* Linking to the official resources of the Datekt Consortium.
+
+### 🔴 Strictly Prohibited:
+* Using brand assets on physical merchandise or in commercial advertising without prior written consent.
+* Modifying original colors, stretching, rotating, or altering the design of the logo.
+* Creating a false impression of an official partnership, endorsement, or sponsorship by the Datekt Consortium where none exists.
 
 ---
 
-## 🚀 Быстрые правила использования
+## 📬 Contacts and Commercial Licensing
 
-### 🟢 Разрешено:
-* Использование логотипа в статьях, новостных материалах и честных
-  технических обзорах.
-* Создание некоммерческого фан-арта или сообщества контента.
-* Ссылка на официальные ресурсы Datekt Consortium.
-
-### 🔴 Строго запрещено:
-* Использование фирменного стиля на физических товарах или коммерческой
-  рекламе без письменного согласия.
-* Изменение оригинальных цветов, растягивание, вращение или модификация
-  дизайна логотипа.
-* Создание впечатления официального партнёрства, одобрения или спонсорства
-  со стороны Datekt Consortium, где этого нет.
-
----
-
-## 📬 Контакты и коммерческое лицензирование
-
-Если вам необходима специальная коммерческая лицензия, исходные файлы
-более высокого разрешения или вы хотите сотрудничать с нами, пожалуйста,
-свяжитесь с нами через официальные медиа-каналы или откройте Issue в данном
-репозитории.
+If you require a special commercial license, higher resolution source files, or wish to collaborate with us, please contact us through our official media channels or open an Issue in this repository.
 
 ***
 
-*© 2026 Datekt Consortium. Все права защищены.*
+*© 2026 Datekt Consortium. All rights reserved.*
