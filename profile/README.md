@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="datekt_banner/datekt-banner.png" alt="DATEKT Banner" width="100%">
+  <img src="images/datekt-banner.png" alt="Datekt Banner" width="100%">
 </p>
 
 ***
 
-<h3 align="center">Счастливая цифровая жизнь</h3>
+<h3 align="center">Happy Digital Life :)</h3>
 
 <p align="center">
   <a href="https://t.me/datekt">
@@ -16,6 +16,12 @@
   <a href="https://discord.gg/datekt">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
+  <a href="https://habr.com/ru/users/datekt/">
+    <img src="https://img.shields.io/badge/Habr-5865F2?style=flat&logo=habr&logoColor=white" alt="Habr">
+  </a>
+  <a href="https://vc.ru/id6126054">
+    <img src="https://img.shields.io/badge/VC-5865F2?style=flat&logo=vc&logoColor=white" alt="VC.ru">
+  </a>
   <a href="https://datekt.su">
     <img src="https://img.shields.io/badge/datekt.su-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
   </a>
@@ -25,14 +31,7 @@
 
 ## 🌐 Datekt Consortium
 
-Добро пожаловать в официальный хаб независимой цифровой-команды **Datekt**. Мы создаем то, что приносит удовольствие не только нам, но и пользователям цифровой жизни.
-
-### 📦 Наши ресурсы и Brand Kit
-Внутри нашей организации вы можете найти все официальные исходные материалы и их правовой статус:
-
-* 🔤 **[Datekt-Fonts](https://github.com/datekt/.github/tree/main/fonts)** — наши фирменные шрифты (`Datekt-Regular` и `Datekt-Black`).
-* 🎨 **[Datekt-Logotype](https://github.com/datekt/.github/tree/main/logotype)** — официальный графический логотип в высоком разрешении формата JPG и PNG.
-* 📝 **[Datekt-Name](https://github.com/datekt/.github/tree/main/name)** — репозиторий защиты нашего текстового наименования, закрепляющий за нами права на бренд **Datekt Consortium**.
+Welcome to the official hub of the independent digital team **Datekt**. We create projects that bring joy not only to us, but also to users of the digital world. Join our community — together we’ll make digital life brighter.
 
 ---
-*© 2026 Datekt Consortium. Все права защищены. Разработано для людей.*
+*© 2026 Datekt Consortium. All rights reserved. Designed for people.*
