@@ -1,70 +1,69 @@
-# Политика безопасности
+# Security Policy
 
-## Сообщение об уязвимостях
+## Vulnerability Reporting
 
-Команда **Datekt Consortium** высоко ценит безопасность наших пользователей
-и инфраструктуры. Если вы обнаружили уязвимость в нашей инфраструктуре,
-на сайте **datekt.su**, в социальных сетях или в программном
-обеспечении, которое мы распространяем — просим немедленно сообщить об
-этом.
+The **Datekt Consortium** team highly values the security of our users
+and infrastructure. If you discover a vulnerability in our infrastructure,
+on the **datekt.su** website, in social networks, or in software
+that we distribute, please report it immediately.
 
-### Как сообщить об уязвимости
+### How to Report a Vulnerability
 
-1. **Через вкладку Issues на GitHub.** Откройте раздел Issues в
-   соответствующем репозитории [организации
-   Datekt Consortium](https://github.com/datekt) и опишите обнаруженную
-   проблему с меткой `security`.
-2. **Через официальный сайт.** Оставьте сообщение в контактной форме на
-   странице **https://datekt.su/contact**.
+1. **Via the Issues tab on GitHub.** Open the Issues section in the
+   relevant repository of the [Datekt Consortium
+   organization](https://github.com/datekt) and describe the discovered
+   issue with the label `security`.
+2. **Via the official website.** Leave a message in the contact form on
+   the page **https://datekt.su**.
 
-В вашем сообщении, пожалуйста, укажите:
+In your report, please include:
 
-* Описание уязвимости (что именно не так);
-* Шаги для её воспроизведения;
-* Возможное влияние и уровень серьёзности;
-* Ваши контакты для обратной связи (никнейм в Telegram/Discord или email).
+* Description of the vulnerability (what exactly is wrong);
+* Steps to reproduce it;
+* Potential impact and severity level;
+* Your contact details for follow-up (Telegram/Discord nickname or email).
 
-### Описание процесса
+### Process Description
 
-1. **Регистрация.** Мы подтверждаем получение вашего сообщения в течение
-   24–48 часов в рабочие дни с 07:00 до 19:00 (12 часов) по Московскому времени.
-2. **Анализ.** Техническая команда проверяет и классифицирует
-   уязвимость по шкале CVSS.
-3. **Устранение.** Мы оперативно работаем над устранением
-   уязвимости и внутренним тестированием исправления.
-4. **Уведомление.** Когда исправление готово, мы публикуем информацию об
-   уязвимости и рекомендуем пользователям обновиться.
-5. **Благодарность.** С вашего позволения мы указываем ваш ник в списке
-   благодарностей за сообщение о безопасности.
+1. **Registration.** We acknowledge receipt of your report within
+   24–48 hours on business days from 07:00 to 19:00 (12 hours) Moscow Time.
+2. **Analysis.** The technical team verifies and classifies the
+   vulnerability using the CVSS scale.
+3. **Remediation.** We promptly work on remediating the
+   vulnerability and internally testing the fix.
+4. **Notification.** When the fix is ready, we publish information about
+   the vulnerability and recommend that users update.
+5. **Acknowledgement.** With your permission, we list your nickname in the
+   security acknowledgements.
 
-## Сообщение о фейковых каналах бренда
+## Reporting Fake Brand Channels
 
-Если вы обнаружили в социальных сетях (Telegram, TikTok, Discord,
-YouTube и др.) каналы, чаты или аккаунты, которые выдают себя за
-официальные ресурсы **Datekt Consortium**, — сообщите об этом:
+If you discover channels, chats, or accounts on social networks
+(Telegram, TikTok, Discord, YouTube, etc.) that impersonate the
+official resources of **Datekt Consortium**, please report it:
 
-1. Через раздел Issues в соответствующем репозитории
-   [организации Datekt Consortium](https://github.com/datekt) с
-   меткой `impersonation`;
-2. Через форму обратной связи на сайте **https://datekt.su/contact**.
+1. Via the Issues section in the relevant repository of the
+   [Datekt Consortium organization](https://github.com/datekt) with the
+   label `impersonation`;
+2. Via the feedback form on the website **https://datekt.su**.
 
-При этом укажите:
+Please include:
 
-* Ссылка на поддельный канал или аккаунт;
-* Доказательства (скриншоты, цитаты) подмены подлинного контента;
-* Краткое описание нарушений.
+* Link to the fake channel or account;
+* Evidence (screenshots, quotes) of impersonation of genuine content;
+* Brief description of the violations.
 
-Мы немедленно проверяем информацию и при необходимости:
+We immediately review the information and, if necessary:
 
-* Подаём официальную жалобу на фейковый аккаунт в соответствующую
-  платформу (Telegram, TikTok, Discord и т.д.);
-* Публикуем предупреждение в наших официальных каналах.
+* File an official complaint about the fake account with the relevant
+  platform (Telegram, TikTok, Discord, etc.);
+* Publish a warning in our official channels.
 
-## Контакты для экстренных случаев
+## Emergency Contacts
 
-* **Официальный сайт:** https://datekt.su
+* **Official website:** https://datekt.su
 * **Telegram:** [@datekt](https://t.me/datekt)
 
 ---
 
-*© 2026 Datekt Consortium. Все права защищены.*
+*© 2026 Datekt Consortium. All rights reserved.*

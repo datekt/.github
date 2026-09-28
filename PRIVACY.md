@@ -1,89 +1,89 @@
-# Политика конфиденциальности
+# Privacy Policy
 
-**Последнее обновление:** 20.09.2026
+**Last updated:** September 28, 2026
 
-Настоящая Политика конфиденциальности (далее — «Политика») описывает,
-как **Datekt Consortium** (далее — «Мы», «Наша организация») собирает,
-использует и защищает информацию о ваших персональных данных при
-посещении официального сайта **datekt.su** и наших социальных сетей
+This Privacy Policy (hereinafter referred to as the "Policy") describes
+how **Datekt Consortium** (hereinafter referred to as "We", "Our organization") collects,
+uses, and protects information about your personal data when you
+visit the official website **datekt.su** and our social networks
 (Telegram, TikTok, Discord).
 
-Мы обрабатываем персональные данные в соответствии с Федеральным законом
-Российской Федерации «О персональных данных» (152-ФЗ) и применяем все
-разумные меры для их надёжной защиты.
+We process personal data in accordance with the Federal Law of the
+Russian Federation "On Personal Data" (152-FZ) and apply all
+reasonable measures for their reliable protection.
 
-## 1. Что мы собираем
+## 1. What We Collect
 
-Мы ограничиваемся минимумом. Мы можем собирать только следующее:
+We keep it to a minimum. We may collect only the following:
 
-* **Никнеймы и логины пользователей**, которые вы предоставляете при
-  регистрации на сайте или в соцсетях (например, `@datekt`).
-* **Электронная почта (email)**, которую вы добровольно указываете при
-  подписке на рассылку, обращении в службу поддержки или участии в
-  конкурсах и мероприятиях, а также вход и регистрацию.
+* **User nicknames and usernames** that you provide when
+  registering on the site or in social networks (for example, `@datekt`).
+* **Email address**, which you voluntarily provide when
+  subscribing to the newsletter, contacting support, or participating in
+  contests and events, as well as for login and registration.
 
-## 2. Как мы используем ваши данные
+## 2. How We Use Your Data
 
-Мы используем переданные вами данные исключительно в следующих целях:
+We use the data you provide solely for the following purposes:
 
-* Управление вашим доступом к сервисам и ресурсам сайта **datekt.su**;
-* Ответы на ваши вопросы и запросы в службу поддержки;
-* Рассылка новостей, обновлений и информационных материалов (только при
-  вашем согласии);
-* Анализ и улучшение работы наших сервисов (в агрегированном и
-  анонимизированном виде).
+* Managing your access to the services and resources of the **datekt.su** website;
+* Responding to your questions and support requests;
+* Sending newsletters, updates, and informational materials (only with
+  your consent);
+* Analyzing and improving our services (in aggregated and
+  anonymized form).
 
-## 3. Защита персональных данных
+## 3. Protection of Personal Data
 
-Мы принимаем все разумные меры для защиты ваших персональных данных:
+We take all reasonable measures to protect your personal data:
 
-* Доступ к данным имеют только уполномоченные сотрудники и только в
-  объёме, необходимом для выполнения своих обязанностей;
-* Мы не передаём, не продаём и не раскрываем вашу личную информацию
-  третьим лицам, за исключением случаев, прямо предусмотренных
-  законодательством (например, по требованию суда или государственных
-  органов).
+* Only authorized employees have access to the data, and only to the
+  extent necessary to perform their duties;
+* We do not transfer, sell, or disclose your personal information
+  to third parties, except in cases expressly provided for by
+  law (for example, at the request of a court or government
+  authorities).
 
-## 4. Мы НЕ собираем
+## 4. What We Do NOT Collect
 
-Настоящим заявляем, что мы **не собираем и не храним** следующую
-информацию без вашего прямого согласия:
+We hereby state that we **do not collect or store** the following
+information without your direct consent:
 
-* Скрытую или дополнительную информацию о вашем устройстве, включая,
-  но не ограничиваясь, точное геопозиционирование, историю просмотров,
-  данные о трафике и cookies-файлы без вашего ведома;
-* Информацию о вашем финансовом состоянии, банковских счётах или
-  платёжных данных без необходимости;
-* Персональные данные детей младше 16 лет без согласия родителей или
-  законных представителей.
+* Hidden or additional information about your device, including,
+  but not limited to, precise geolocation, browsing history,
+  traffic data, and cookies without your knowledge;
+* Information about your financial status, bank accounts, or
+  payment data unless necessary;
+* Personal data of children under 16 without the consent of parents or
+  legal guardians.
 
-## 5. Ваши права
+## 5. Your Rights
 
-В соответствии с 152-ФЗ вы имеете право:
+In accordance with 152-FZ, you have the right to:
 
-* Узнавать, какие персональные данные о вас хранятся;
-* Требовать уточнения, блокировки или удаления ваших персональных данных;
-* Отзывать своё согласие на обработку персональных данных;
-* Подавать жалобы в уполномоченный орган по защите персональных данных.
+* Know what personal data about you is stored;
+* Request clarification, blocking, or deletion of your personal data;
+* Withdraw your consent to the processing of personal data;
+* File complaints with the authorized body for personal data protection.
 
-Для реализации ваших прав обращайтесь по адресу, указанному в разделе
-«Контакты» на нашем сайте.
+To exercise your rights, contact us at the address indicated in the
+"Contacts" section on our website.
 
-## 6. Изменения в Политике
+## 6. Changes to the Policy
 
-Мы можем время от времени обновлять настоящую Политику конфиденциальности.
-Все изменения вступают в силу с момента их публикации на официальном
-сайте: **https://datekt.su/privacy**.
+We may update this Privacy Policy from time to time.
+All changes take effect upon their publication on the official
+website: **https://datekt.su**.
 
-## 7. Контакты
+## 7. Contacts
 
-Если у вас есть вопросы, пожелания или жалобы, связанные с обработкой
-персональных данных, пожалуйста, свяжитесь с нами:
+If you have questions, suggestions, or complaints related to the processing
+of personal data, please contact us:
 
-* **Официальный сайт:** https://datekt.su
+* **Official website:** https://datekt.su
 * **Telegram:** @datekt
 * **Discord:** @datekt
 
 ---
 
-*© 2026 Datekt Consortium. Все права защищены.*
+*© 2026 Datekt Consortium. All rights reserved.*
