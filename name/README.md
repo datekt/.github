@@ -1,34 +1,24 @@
-# Datekt Consortium • Ресурсы названий
+# Datekt Consortium • Name Assets
 
-Данный документ содержит официальную правовую документацию,
-касающуюся защиты и разрешённого использования торговых названий
-**Datekt** и **Datekt Consortium**.
+This document contains official legal documentation regarding the protection and permitted usage of the trade names **Datekt** and **Datekt Consortium**.
 
-## 🌐 Присутствие бренда и согласованность
+## 🌐 Brand Presence and Consistency
 
-Наш проект поддерживает единое цифровое присутствие на крупнейших
-платформах. Мы занимаем доминирующие позиции в имён пользователей в
-сети для защиты нашего сообщества от мошенничества:
+Our project maintains a unified digital presence across major platforms. We hold dominant positions in username claims across networks to protect our community from fraud:
 
 * **GitHub:** [@Datekt](https://github.com/datekt)
 * **Telegram:** `@datekt`
-* **Discord:** `@datekt` (будет профиль пользователя, у которого есть ссылка на официальный сервер.)
+* **Discord:** `@datekt` (This profile will link to the official server)
 * **TikTok:** `@da.tekt`
 
 ---
 
-## ⚖️ Правовая основа
+## ⚖️ Legal Framework
 
-Чтобы сохранить целостность нашего медиа-бренда, все пользователи и
-партнёры должны соблюдать следующие официальные правила:
+To preserve the integrity of our media brand, all users and partners must comply with the following official rules:
 
-* 📜 **[Лицензия на использование названия](LICENSE)** — Определяет, что
-  разрешено (новости, обзоры, упоминания в сообществе) и строго запрещено
-  (коммерческие копии, фейковые аккаунты поддержки).
-* 🛡️ **[Защита авторского права на название](COPYRIGHT)** — Заявляет о
-  нашем первобытном авторстве, защите товарного знака и бренда 2026 года,
-  а также активной политике применения DMCA против подделывающих.
+* 📜 **[Name Usage License](LICENSE)** — Defines what is permitted (news, reviews, community mentions) and strictly prohibited (commercial copycats, fake support accounts).
 
 ***
 
-*© 2026 Datekt Consortium. Все права защищены.*
+*© 2026 Datekt Consortium. All rights reserved.*

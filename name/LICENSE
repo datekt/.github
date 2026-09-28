@@ -1,20 +1,13 @@
-# Лицензионное соглашение на использование наименования Datekt
+BSD 3-Clause License
 
-Copyright (c) 2026, Datekt Consortium (https://github.com/datekt/.github/tree/main/name)
+   Copyright (c) 2026 Datekt Consortium. All rights reserved.
 
-Настоящее Лицензионное соглашение (далее — «Лицензия») устанавливает правила и условия использования текстового наименования **Datekt** и **Datekt Consortium** (далее — «Наименование») третьими лицами.
+   Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
-## 1. Разрешенное использование
-Владельцы бренда предоставляют третьим лицам свободное, неисключительное и безвозмездное право на упоминание Наименования по всему миру в следующих целях:
-* **Медиа и обзоры:** Цитирование, упоминание в новостях, статьях, видеороликах и честных обзорах проектов медиа-группы.
-* **Сообщество и Фан-арт:** Создание фан-сообществ, обсуждений и творческих проектов, если они прямо указывают на неофициальный статус.
-* **Поисковая оптимизация и ссылки:** Использование слова Datekt в качестве анкоров и текстовых ссылок на официальные ресурсы команды.
+   1. Redistributions of source code (or original media files) must retain the above copyright notice, this list of conditions and the following disclaimer.
 
-## 2. Запрещенное использование
-Пользователям Наименования **категорически запрещается**:
-* **Коммерческая мимикрия:** Регистрация сторонних коммерческих проектов, компаний, доменов, приложений или платных сервисов, содержащих в названии слово «Datekt», способных ввести в заблуждение клиентов.
-* **Фейковые представительства:** Создание аккаунтов, каналов или чатов в социальных сетях (включая TikTok, Telegram, Discord, GitHub), имитирующих статус официального представительства, администрации или поддержки Datekt Consortium.
-* **Киберсквоттинг:** Намеренная регистрация юзернеймов «datekt» на новых или существующих платформах с целью их последующей перепродажи команде или создания препятствий.
+   2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
-## 3. Отзыв прав
-В случае нарушения репутационных интересов или правил данной Лицензии, авторы бренда оставляют за собой право потребовать немедленного удаления или переименования любого чужого ресурса, использующего слово **Datekt**.
+   3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software (or media files) without specific prior written permission.
+
+   THIS SOFTWARE AND MEDIA FILES ARE PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
