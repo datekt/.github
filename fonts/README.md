@@ -1,46 +1,40 @@
-# Шрифт Datekt
+# Datekt Font
 
-Открытый шрифтовый набор, разработанный в рамках **Datekt Consortium**.
-Создан для идеального использования как в заголовках, так и в основном
-тексте.
+An open-source typeface family developed by the **Datekt Consortium**. Designed to perform perfectly in both headers and body text.
 
-## Предпросмотры
+## Previews
 
-### Стиль Regular / Bold
+### Regular / Bold Style
 
-| Латиница | Кириллица |
+| Latin | Cyrillic |
 | :---: | :---: |
-| ![Предпросмотр латиницы (жирный)](datekt_illustration/Datekt-Black_en.png) | ![Предпросмотр кириллицы (жирный)](datekt_illustration/Datekt-Black_ru.png) |
+| ![Latin Bold Preview](datekt_illustration/Datekt-Black_en.png) | ![Cyrillic Bold Preview](datekt_illustration/Datekt-Black_ru.png) |
 
-### Стиль Thin / Light
+### Thin / Light Style
 
-| Латиница | Кириллица |
+| Latin | Cyrillic |
 | :---: | :---: |
-| ![Предпросмотр латиницы (тонкий)](datekt_illustration/Datekt-Regular_en.png) | ![Предпросмотр кириллицы (тонкий)](datekt_illustration/Datekt-Regular_ru.png) |
+| ![Latin Thin Preview](datekt_illustration/Datekt-Regular_en.png) | ![Cyrillic Thin Preview](datekt_illustration/Datekt-Regular_ru.png) |
 
-## Форматы и стили
+## Formats and Styles
 
-Шрифт включает два полностью скомпилированных стиля TrueType:
+The font family includes two fully compiled TrueType styles:
 
 * `Datekt-Regular.ttf`
 * `Datekt-Black.ttf`
 
-Поддерживает полную **кириллицу** (включая болгарские и сербские
-локализованные формы) и расширенный набор латинских символов, а также
-функции OpenType (цифры в старом стиле, дроби и индексы).
+It features full **Cyrillic** support (including Bulgarian and Serbian localized alternate forms) and an extended Latin character set, along with OpenType features (oldstyle figures, fractions, and indices).
 
-## Установка
+## Installation
 
-1. Скачайте файлы `.ttf` из папки [datekt_fonts](https://github.com/datekt/.github/tree/main/fonts/datekt_fonts).
-2. Откройте файлы и нажмите **Установить** в своей операционной системе
-   (Windows / macOS / Linux).
+1. Download the `.ttf` files from the [datekt_fonts](datekt_fonts) folder.
+2. Open the files and click **Install** on your operating system (Windows / macOS / Linux).
 
-## Лицензия
+## License
 
-Это программное обеспечение шрифта лицензировано в соответствии с
-**SIL Open Font License, Version 1.1**.
-Подробности см. в файле [LICENSE](LICENSE).
+This Font Software is licensed under the **SIL Open Font License, Version 1.1**.
+For more details, see the [LICENSE](LICENSE) file.
 
 ---
 
-*© 2026 Datekt Consortium. Все права защищены.*
+*© 2026 Datekt Consortium. All rights reserved.*

@@ -1,108 +1,93 @@
-Copyright (c) 2026, Datekt Consortium (https://github.com/datekt/.github/tree/main/fonts),
-с зарезервированным именем шрифта "Datekt".
+Copyright (c) 2026 Dima Grenev
+Copyright (c) 2026 Datekt Consortium with Reserved Font Name "Datekt".
 
-Это программное обеспечение шрифта лицензировано в соответствии
-с SIL Open Font License, Version 1.1.
-Данная лицензия приведена ниже, а также доступна с FAQ по адресу:
-https://sil.org
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
 
 -----------------------------------------------------------
-SIL OPEN FONT LICENSE Version 1.1 — 26 февраля 2007 г.
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
 -----------------------------------------------------------
 
-ПРЕАМБУЛА
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font
+creation efforts of academic and linguistic communities, and to
+provide a free and open framework in which fonts may be shared and
+improved in partnership with others.
 
-Целью настоящей Лицензии открытых шрифтов (OFL) является стимулирование
-мирового развития совместных проектов по созданию шрифтов, поддержка
-усилий академических и лингвистических сообществ по созданию шрифтов,
-а также обеспечение бесплатной и открытой среды, в которой шрифты
-могут свободно обмениваться и улучшаться в партнерстве с другими.
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any
+reserved names are not used by derivative works. The fonts and
+derivatives, however, cannot be released under any other type of
+license. The requirement for fonts to remain under this license does
+not apply to any document created using the fonts or their
+derivatives.
 
-OFL позволяет использовать, изучать, модифицировать и свободно
-распространять лицензируемые в неё рамках шрифты до тех пор, пока они
-не продаются отдельно. Шрифты, включая любые их производные версии,
-могут быть объединены, встроены, распространены и/или проданы с любым
-программным обеспечением при условии, что зарезервированные имена не
-используются в производных версиях. Однако шрифты и их производные
-версии не могут быть выпущены по какой-либо другой лицензии. Требование
-сохранять шрифты под данной лицензией не распространяется на документы,
-созданные с использованием шрифтов или их производных версий.
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
 
-ОПРЕДЕЛЕНИЯ
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
 
-«Программное обеспечение шрифта» (Font Software) означает набор файлов,
-выпущенных Правообладателем(ами) в соответствии с условиями настоящей
-лицензии и чётко помеченных как таковые. Оно может включать исходные
-файлы, сборочные скрипты и документацию.
+"Original Version" refers to the collection of Font Software
+components as distributed by the Copyright Holder(s).
 
-«Зарезервированное имя шрифта» (Reserved Font Name) означает любые имена,
-указанные как таковые после заявления(ий) об авторском праве(е).
+"Modified Version" refers to any derivative made by adding to,
+deleting, or substituting -- in part or in whole -- any of the
+components of the Original Version, by changing formats or by
+porting the Font Software to a new environment.
 
-«Оригинальная версия» (Original Version) означает набор компонентов
-Программного обеспечения шрифта, распространяемых Правообладателем(ами).
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributes to the Font Software.
 
-«Модифицированная версия» (Modified Version) означает любую производную
-версию, созданную путем добавления, удаления или замены — частично или
-полностью — любого из компонентов Оригинальной версии, изменения
-форматов или переноса Программного обеспечения шрифта в новую среду.
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed,
+modify, redistribute, and sell modified and unmodified copies of the
+Font Software, subject to the following conditions:
 
-«Автор» (Author) означает любого дизайнера, инженера, программиста,
-технического писателя или иное лицо, вносящее(ю) вклад в Программное
-обеспечение шрифта.
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by themselves.
 
-РАЗРЕШЕНИЕ И УСЛОВИЯ
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
 
-Настоящим предоставляется разрешение любому лицу, получающему копию
-Программного обеспечения шрифта, бесплатно использовать, изучать,
-копировать, объединять, встраивать, модифицировать, распространять и
-продавать модифицированные и немодифицированные копии Программного
-обеспечения шрифта при соблюдении следующих условий:
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the
+corresponding Copyright Holder. This restriction only applies to the
+primary font name as presented to the users.
 
-1) Ни Программное обеспечение шрифта, ни любые его отдельные компоненты,
-в Оригинальной или Модифицированной версии, не могут продаваться
-отдельно.
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the
+Font Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
 
-2) Оригинальные или Модифицированные версии Программного обеспечения
-шрифта могут быть объединены, распространены и/или проданы с любым
-программным обеспечением, при условии, что каждая копия содержит
-вышеуказанное заявление об авторском праве и данную лицензию. Они
-могут быть включены как отдельные текстовые файлы, человекочитаемые
-заголовки или в соответствующие машиночитаемые поля метаданных в
-текстовых или двоичных файлах, при условии, что эти поля могут быть
-легко просмотрены пользователем.
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
 
-3) Ни одна Модифицированная версия Программного обеспечения шрифта не
-может использовать Зарезервированное(ые) имя(а) шрифта(-ов), если
-только не предоставлено явное письменное разрешение соответствующего
-Правообладателя(я). Данное ограничение применяется только к основному
-имени шрифта, как оно представлено пользователям.
+TERMINATION
+This license becomes void if any of the above conditions are not met.
 
-4) Имена Правообладателя(ей) или Автора(ов) Программного обеспечения
-шрифта не должны использоваться для продвижения, одобрения или рекламы
-любой Модифицированной версии, за исключением признания вклада(-а)
-Правообладателя(я) и/или Автора(а) или с их явного письменного
-разрешения.
-
-5) Программное обеспечение шрифта, модифицированное или немодифицированное,
-частично или полностью, должно распространяться полностью по настоящей
-лицензии, и не должно распространяться по какой-либо другой лицензии.
-Требование сохранять шрифты под данной лицензией не распространяется на
-документы, созданные с использованием Программного обеспечения шрифта.
-
-ПРЕКРАЩЕНИЕ СРОКА ДЕЙСТВИЯ
-
-Настоящая лицензия становится недействительной, если любое из вышеуказанных
-условий не выполнено.
-
-ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ
-
-ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ШРИФТА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ» БЕЗ КАКИХ-ЛИБО
-ГАРАНТИЙ, ЯВНО ВЫРАЖЕННЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ
-ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЁННОЙ ЦЕЛИ И
-НАРУШЕНИЯ АВТОРСКИХ ПРАВ, ПАТЕНТОВ, ТОРГОВЫХ МАРК ИЛИ ИНЫХ ПРАВ. В НИКАКОМ
-СЛУЧАЕ ДЕРЖАТЕЛЬ АВТОРСКОГО ПРАВА НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ПО КАКОМУ-ЛИБО
-ТРЕБОВАНИЮ, УБЫТКАМ ИЛИ ИНОЙ ОТВЕТСТВЕННОСТИ, ВКЛЮЧАЯ ОБЩИЕ, ОСОБЕННЫЕ,
-КОСВЕЙНЫЕ, СЛУЧАЙНЫЕ ИЛИ ПОСЛЕДОВАВШИЕ УБЫТКИ, БЫДУТ ЛИ ЭТО ПРИ ДЕЙСТВИИ
-ДОГОВОРА, ДЕЛА ПРАВА ИЛИ ИНЫМ ОСНОВАНИЯМ, ВОЗНИКАЮЩИМ ИЗ ПРОГРАММНОГО
-ОБЕСПЕЧЕНИЯ ШРИФТА ИЛИ СВЯЗАННЫХ С ЕГО ИСПОЛЬЗОВАНИЕМ ИЛИ ИНЫМИ
-ДЕЙСТВИЯМИ С ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ ШРИФТА.
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OF THIS SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE FONT SOFTWARE.
