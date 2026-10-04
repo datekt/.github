@@ -16,12 +16,6 @@
   <a href="https://discord.gg/datekt">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://habr.com/ru/users/datekt/">
-    <img src="https://img.shields.io/badge/Habr-5865F2?style=flat&logo=habr&logoColor=white" alt="Habr">
-  </a>
-  <a href="https://vc.ru/id6126054">
-    <img src="https://img.shields.io/badge/VC-5865F2?style=flat&logo=vc&logoColor=white" alt="VC.ru">
-  </a>
   <a href="https://datekt.su">
     <img src="https://img.shields.io/badge/datekt.su-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website">
   </a>
