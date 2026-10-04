@@ -6,16 +6,15 @@ Official digital colors of the **Datekt Consortium**. Use these parameters to ma
 
 | Color Name | Visualization | HEX | RGB | Purpose |
 | :--- | :---: | :--- | :--- | :--- |
-| **Datekt Black** | ⬛ | `#000000` | `0, 0, 0` | Main interface background, deep shadows, backdrops |
-| **Datekt White** | ⬜ | `#FFFFFF` | `255, 255, 255` | Primary text color on dark backgrounds, clean elements |
+| **Datekt Blue** | 🟦 | `#4b7ad6` | `75,122,214` | - |
+| **Datekt Red** | 🟥 | `#e34242` | `227,66,66` | - |
 
 ## 🚀 Accent Color
 
 | Color Name | Visualization | HEX | RGB | Purpose |
 | :--- | :---: | :--- | :--- | :--- |
-| **Datekt Lime (Yellow-Green)** | 🟢 | `#67D934` | `103, 217, 52` | Main accent, buttons, active elements, icons |
+| **Datekt Green (Yellow-Green)** | 🟩 | `#65d833` | `101,216,51` | Main accent, buttons, active elements, icons |
 
 ---
 ## 📦 Resources for Development and Design
 * **For Web:** Production-ready design tokens are available in the `tokens/` folder.
-* **For Graphics:** Color palettes for graphic editors are available in the `palettes/` folder.
