@@ -4,7 +4,7 @@
 
 ***
 
-<h3 align="center">Happy Digital Life :)</h3>
+<h3 align="center">Happy Media :)</h3>
 
 <p align="center">
   <a href="https://t.me/datekt">
